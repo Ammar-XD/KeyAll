@@ -1,0 +1,18 @@
+# KeyAll Plugin Configuration
+
+# --------------------------------------------------------
+# Do not edit (If you edit this the  plugin will not work)
+file-version: 1
+# --------------------------------------------------------
+
+
+# Delay in seconds before executing the 'keyall' command
+# To convert hours into seconds [https://www.inchcalculator.com/convert/hour-to-second/]
+delayInSeconds: 60
+
+# Name of the key to give in the 'keyall' command
+# Set to "NONE" to disable the  plugins  features
+keyName: "NONE"
+
+# Amount of keys to give in the 'keyall' command
+keyAmount: 1

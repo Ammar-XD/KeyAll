@@ -1,0 +1,13 @@
+name: KeyAll
+version: '0.0.3-DevBuild'
+author: Ammar
+description: A KeyAll plugin built for better & optimized key all events
+main: dev.ammar.keyall.KeyAll
+api-version: '1.17'
+depend: [ExcellentCrates]
+softdepend: [PlaceholderAPI]
+commands:
+  keyall:
+    description: A donut SMP Replica for KEYALL. Avalible for free on SpigotMC
+    usage: /keyall reload
+    permission: op
