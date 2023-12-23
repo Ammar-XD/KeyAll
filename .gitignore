@@ -1,0 +1,12 @@
+# Ignore target folder
+/target/
+
+# Ignore .gitattributes file
+.gitattributes
+
+# Ignore dependency-reduced-pom.xml file
+dependency-reduced-pom.xml
+
+# Ignore .idea folder and Keyall.iml file
+.idea/
+Keyall.iml
